@@ -1,6 +1,5 @@
-rootProject.name = 'example'
-include 'module-api'
-include 'module-api'
-include 'module-common'
-include 'module-web'
+rootProject.name = 'velog_example'
+include 'batch-server'
+include 'api-server'
+include 'core'
 
